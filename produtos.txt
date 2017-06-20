@@ -1,0 +1,8 @@
+6
+arroz ; 1.5
+farinha ; 1.2
+massa ; 2
+batatas ; 5.6
+pipocas ; 0.4
+sumo ; 3
+alface;2.3
